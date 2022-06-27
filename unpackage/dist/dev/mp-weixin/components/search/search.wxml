@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['tranfor',['$event']]]]]}}" class="searahlist" catchtap="__e"><input placeholder="请输入您需要的商品" type="text" data-event-opts="{{[['input',[['__set_model',['','target','$event',[]]],['inputchange',['$event']]]]]}}" value="{{target}}" bindinput="__e"/></view>

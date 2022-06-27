@@ -1,0 +1,1 @@
+<view class="wf"><view class="one"><view class="img"><image src="{{item.img}}"></image></view><view class="name">{{''+item.name+''}}</view><view class="bottom"><view class="store">{{''+item.store+''}}</view><view class="price">{{''+item.price+''}}</view><view class="classify">{{''+item.classify+''}}</view></view></view></view>

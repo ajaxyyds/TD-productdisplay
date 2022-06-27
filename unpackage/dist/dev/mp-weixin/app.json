@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/commodity/commodity",
+    "pages/seek/seek"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "泰德云",
+    "navigationBarBackgroundColor": "#f85347",
+    "backgroundColor": "#f85347"
+  },
+  "usingComponents": {}
+}

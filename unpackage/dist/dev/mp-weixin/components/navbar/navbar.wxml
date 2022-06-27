@@ -1,0 +1,1 @@
+<view class="navbar"><scroll-view scroll-x="{{true}}"><view class="box"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index"><view data-event-opts="{{[['tap',[['selectbar',['$0',index,'$1'],[[['list','',index]],'active']]]]]}}" class="{{['type',(activeIndex===index)?'active':'']}}" bindtap="__e">{{''+item.name+''}}</view></block></view></scroll-view></view>

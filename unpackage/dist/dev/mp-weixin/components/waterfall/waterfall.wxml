@@ -1,0 +1,1 @@
+<view class="waterfall"><waterfalls-flow class="vue-ref" vue-id="235d2948-1" wfList="{{list}}" data-ref="wf" bind:__l="__l"></waterfalls-flow></view>

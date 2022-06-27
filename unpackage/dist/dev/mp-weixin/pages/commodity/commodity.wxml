@@ -1,0 +1,1 @@
+<view><search vue-id="5dfa7ae4-1" bind:__l="__l"></search><navbar bind:active="__e" vue-id="5dfa7ae4-2" data-event-opts="{{[['^active',[['shownow']]]]}}" bind:__l="__l"></navbar><pagepart vue-id="5dfa7ae4-3" title="{{title}}" prolist="{{product}}" bind:__l="__l"></pagepart></view>

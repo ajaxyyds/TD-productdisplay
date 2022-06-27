@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "part-item": "/components/pagepart/partItem"
+  }
+}
